@@ -2,16 +2,10 @@ import java.util.Set;
 import java.util.TreeSet;
 
 
-class Referencee {
 
-}
 public class LOL {
 
 
-
-    LOL() {
-
-    }
     public static void main(String[] args) {
 
     }
